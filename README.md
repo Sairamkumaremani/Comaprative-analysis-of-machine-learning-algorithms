@@ -11,7 +11,8 @@ Decision Tress
 KNN Algorithm
 
 Naive Bayes 
- 
+
+ The Accuracy of all Algorithms  are mentioned below:
 
 
 Logisitc Regression                 94.76% (Approx)
