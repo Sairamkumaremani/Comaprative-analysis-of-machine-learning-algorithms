@@ -1,5 +1,5 @@
 # Comaprative-analysis-of-machine-learning-algorithms
-This Repository is for Mini project which we had done in 3rd Year
+This Repository is for Mini project which we had done in 3rd Year(Team Porject)
 We are Comparing the 4 different Machine Learning Algorithms in Fake news detection for Same Data Set considering the data features Text,label
 
 The Algorithms which we used are: 
