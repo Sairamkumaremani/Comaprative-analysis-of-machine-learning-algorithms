@@ -11,7 +11,7 @@ Decision Tress
 
 KNN Algorithm
 
-Naive Bayes 
+
 
  The Accuracy of all Algorithms  are mentioned below:
 
